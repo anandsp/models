@@ -1,5 +1,5 @@
 {
-  "_name_or_path": "/home/seungyoun/llama_related/llama_code_interpreter/ckpt/codellama-2-7b-instruct",
+  "_name_or_path": "/home/seungyoun/llama_related/llama_code_interpreter/output/llama-2-7b-codellama-ci",
   "architectures": [
     "LlamaForCausalLM"
   ],
